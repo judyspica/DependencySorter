@@ -1,7 +1,6 @@
 package logic;
 
 import model.Dependency;
-
 import java.util.ArrayList;
 import java.util.List;
 
